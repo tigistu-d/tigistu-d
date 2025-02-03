@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tigistu-d
+- 👋 Hi, I’m @tigistu-Mkorga
 - 👀 I’m interested in SWE
 - 🌱 I’m currently learning CS & finance
 - 📫 How to reach me korgat@whitman.edu
