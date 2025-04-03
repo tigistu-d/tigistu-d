@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @tigistu-Mkorga
-- 👀 I’m interested in SWE
-- 🌱 I’m currently learning CS & finance
+- 👋 Selam,
+{
+  "name": "Tigistu Korga",
+  "age": 20,
+  "major": "Computer Science",
+  "interests": ["healthcare", "design", "technology"]
+}
 - 📫 How to reach me korgat@whitman.edu
 
 <!---
